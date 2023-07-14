@@ -1,2 +1,2 @@
-# chatbot-for-kian
-A Streamlit Chatbot for Kian
+# chatgpt-for-CHILD
+A Streamlit Chatbot for CHILD
